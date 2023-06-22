@@ -1,0 +1,2 @@
+i recommend to slowly learn commands from here when you are free:
+https://www.w3docs.com/learn-git/git-config.html
